@@ -107,9 +107,9 @@ uselessCode = 'I am useless'
 # and replace the explanation mark with a sad face. Press Esc to eliminate
 # multiple cursors.
 
-catchMeIfYouCan1 = 'You did not catch me!'
-catchMeIfYouCan2 = 'You did not catch me!'
-catchMeIfYouCan3 = 'You did not catch me!'
+catchMeIfYouCan1 = 'You did catch me!:('
+catchMeIfYouCan2 = 'You did catch me!:('
+catchMeIfYouCan3 = 'You did catch me!:('
 
 
 # EXERCISE 4. Bracket Matching.
@@ -132,6 +132,7 @@ c = 3
 if (a*2 + (c/(b+1))) > 1:
     print("Hei!")
 
+a = 3 
 
 # b. That was easy. In more complicated cases, you might want to use a
 # keyboard shortcut. Yes, but which one? You can search for "Go to bracket"
